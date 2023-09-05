@@ -2,19 +2,19 @@
 
 [Projeto - portifólio para escrita do README.](#projeto---portif%C3%B3lio-para-escrita-do-readme)  
 [descrição](#descri%C3%A7%C3%A3o)  
-[Funcionalidades](#funcionalidades)  
+[Funcionalidades](#funcionalidades)    
 [Tecnologias Utilizadas](#tecnologias-utilizadas)   
-[Fontes consultadas](#fontes-consultadas)  
+[Fontes consultadas](#fontes-consultadas)    
 [Autores](#autores)  
 
-# Projeto - portifólio para escrita do README.
+#  🚀 Projeto - portifólio para escrita do README.
 
-## descrição
+## 📋 descrição
 
-## Funcionalidades
+## 🔧 Funcionalidades
 
-### Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
-## Fontes consultadas
+## 📄 Fontes consultadas
 
-## Autores
+## ✒️ Autores
