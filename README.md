@@ -12,9 +12,20 @@
 
 ## 📋 descrição
 
+    Projeto feito para realização do README para materia de Programação Web I ultilização de bootstrap para ter tela responsiva
+
 ## 🔧 Funcionalidades
 
+    Pagina responsiva que se adapta a qualquer tipo de tela.
+
+
 ### 🛠️ Tecnologias Utilizadas
+    
+   - 'github'
+   - 'README'
+   - CSS
+   - HTML
+   - Bootstrap 5
 
 ## 🖇️ Fontes consultadas
 
