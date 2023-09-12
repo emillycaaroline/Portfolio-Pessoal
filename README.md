@@ -36,6 +36,6 @@
 [Bootstrap:](https://getbootstrap.com/)
 
 ## ✒️ Autores
-[Emilly Caroline](https://github.com/emillycaaroline)
+[Emilly Caroline](https://github.com/emillycaaroline)  
 [Leonardo Rocha](https://github.com/LeonardoRochaMarista)
 
