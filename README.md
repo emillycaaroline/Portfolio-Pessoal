@@ -12,11 +12,11 @@
 
 ## 📋 descrição
 
-    Projeto feito para realização do README para materia de Programação Web I ultilização de bootstrap para ter tela responsiva
+Projeto feito para realização do README para materia de Programação Web I ultilização de bootstrap para ter tela responsiva, sendo uma tela bem feita e simples.
 
 ## 🔧 Funcionalidades
 
-    Pagina responsiva que se adapta a qualquer tipo de tela.
+Pagina responsiva que se adapta a qualquer tipo de tela.
 
 
 ### 🛠️ Tecnologias Utilizadas
@@ -37,5 +37,6 @@
 
 ## ✒️ Autores
 [Emilly Caroline](https://github.com/emillycaaroline)  
-[Leonardo Rocha](https://github.com/LeonardoRochaMarista)
+[Perfil no Linkedin](https://www.linkedin.com/in/emilly-caroline-129936290)  
+[-Leonardo Rocha](https://github.com/LeonardoRochaMarista)
 
