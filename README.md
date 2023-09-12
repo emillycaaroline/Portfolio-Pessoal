@@ -36,7 +36,7 @@ Pagina responsiva que se adapta a qualquer tipo de tela.
 [Bootstrap:](https://getbootstrap.com/)
 
 ## ✒️ Autores
-[Emilly Caroline](https://github.com/emillycaaroline)  
-[Perfil no Linkedin](https://www.linkedin.com/in/emilly-caroline-129936290) <br> 
+[•Emilly Caroline](https://github.com/emillycaaroline)  
+[Perfil no Linkedin](https://www.linkedin.com/in/emilly-caroline-129936290) <br><br> 
 [•Leonardo Rocha](https://github.com/LeonardoRochaMarista)
 
