@@ -23,13 +23,13 @@ Pagina responsiva que se adapta a qualquer tipo de tela.
     
    - `github`  
    - `README`
-   - `CSS`
-   - `HTML`
+   - `CSS3`
+   - `HTML5`
    - `Bootstrap 5`
 
 ## 🖇️ Fontes consultadas
 
-[Modelo para fazer README.md](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
+[Modelo para fazer README](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
 
 [Site ultilizado para  fazer bom README:](https://www.alura.com.br/artigos/escrever-bom-readme)  
 
